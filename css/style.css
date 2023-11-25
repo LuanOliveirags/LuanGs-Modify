@@ -278,13 +278,13 @@ section.module.parallax-2 h3 {
   background-attachment: fixed;
   background-size: cover;
   text-align: center;
-  background-color: #3a3a3a;
+  background-color: rgba(58, 58, 58, 0.9333333333);
   width: 100%;
 }
 .conteudo1 div.box1 {
   border-radius: 10px;
-  background-color: #000000;
-  width: 20%;
+  background-color: rgba(148, 147, 147, 0);
+  width: 30%;
   display: inline-block;
   text-align: center;
   color: #ffffff;
@@ -294,8 +294,8 @@ section.module.parallax-2 h3 {
 }
 .conteudo1 div.box2 {
   border-radius: 10px;
-  background-color: #000000;
-  width: 20%;
+  background-color: rgba(148, 147, 147, 0);
+  width: 30%;
   display: inline-block;
   text-align: center;
   color: #ffffff;
@@ -305,8 +305,8 @@ section.module.parallax-2 h3 {
 }
 .conteudo1 div.box3 {
   border-radius: 10px;
-  background-color: #000000;
-  width: 20%;
+  background-color: rgba(148, 147, 147, 0);
+  width: 30%;
   display: inline-block;
   text-align: center;
   color: #ffffff;
